@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/connection1616.png</file>
+        <file>icons/edge1616.png</file>
+        <file>icons/intJunc1616.png</file>
+        <file>icons/intLane1616.png</file>
+        <file>icons/nmlJunc1616.png</file>
+        <file>icons/nmlLane1616.png</file>
+        <file>icons/tllogic1616.png</file>
+        <file>icons/nmlJuncPoly1616.png</file>
+        <file>icons/nmlJuncPoint1616.png</file>
+        <file>icons/intJuncPoint1616.png</file>
+        <file>icons/intEdge1616.png</file>
+        <file>icons/NE4S128.png</file>
+        <file>icons/request1616.png</file>
+        <file>icons/phase1616.png</file>
+    </qresource>
+</RCC>
